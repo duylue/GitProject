@@ -1,0 +1,7 @@
+echo "# ProJect">> README.md
+git init
+git add README.md
+git commit -m "README.md"
+git branch -M master
+git remote add origin https://github.com/duylue/GitProject.git
+git push -u origin master
